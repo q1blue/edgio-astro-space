@@ -23,7 +23,7 @@
     "@astrojs/react": "latest",
     "@astrojs/tailwind": "latest",
     "@edgio/astro": "^6.1.3",
-    "@edgio/cli": "^6.1.3",
+    "@edgio/cli": "^7.4.0",
     "@edgio/core": "^6.1.3",
     "@edgio/devtools": "^6.1.3",
     "@edgio/prefetch": "^6.1.3",
